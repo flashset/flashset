@@ -1,4 +1,4 @@
-# <a href="http://www.sparkyflash.com" target="_blank">SparkyFlash</a> - A flash can change your thoughts
+# <a href="http://www.sparkyflash.com" target="_blank">SparkyFlash</a>
 
 An idea flashed to give a set of Programs to save developers time. 
 
